@@ -7,6 +7,6 @@ for Facial Frame data, feature analysis: facial emotion estimation, eye gaze est
 for audio data, feature analysis: silence duriation time. 
 Facial emotion categories: 0: 'Anger', 1: 'Disgust', 2: 'Fear', 3: 'Happiness', 4: 'Neutral', 5: 'Sadness', 6: 'Surprise'
 
-In addition, we shared the convsersation transcripts in public groupped by conditions, and another transcript is the completing conversation from one participant with conditions (BAB).
+In addition, we shared the speech transcripts in public groupped by conditions, and another speech transcript is the completing conversation from one participant with conditions (BAB).
 
 
