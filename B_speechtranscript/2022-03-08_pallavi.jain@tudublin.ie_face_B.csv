@@ -1,0 +1,16 @@
+time,speaker,text
+00:00.0 - 00:03.2,robot,now. I would like to ask you a couple of word problems.
+00:08.8 - 00:14.6,participant,"yes, sure, "
+,robot,there are five groups of four students. How many students are there in the class?
+00:17.5 - 00:18.5,participant,I cannot tell
+00:22.5 - 00:24.3,participant,how many are there in each group?
+00:26.2 - 00:26.7,participant,I don't know.
+00:30.9 - 00:40.5,robot,"Really, please try again. "
+,participant,Can you repeat that
+,robot,"there is five groups of four students, how many students are there in the class three?"
+,participant,20
+00:43.5 - 00:45.3,robot,One you are so smart.
+00:54.2 - 01:03.8,participant,haha
+00:54.2 - 01:03.8,robot,"Each groom has two pairs of scissors, how many pairs of scissors are there in total tampers "
+,participant,10
+,robot,good job you are correct.

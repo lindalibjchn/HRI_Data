@@ -1,0 +1,11 @@
+time,Speaker,text
+00:00.0 - 00:01.0,robot,couple of word problems 
+,participant,ok?
+00:05.0 - 00:15.0,robot,there are 66 people in the playground including 28 girls always and teachers how many teachers were there in total?
+,participant,I donot know
+00:24.0 - 00:25.0,robot,"Really, please try again."
+00:38.0 - 00:42.0,participant,"There are 66 people in the playground including 28
+girls, boys and teachers, right? how many teachers? I don't know."
+00:43.0 - 00:48.0,participant,"could say that again,"
+,robot,"i am sorry, maybe this question is too difficult."
+,participant,"maybe, it is difficult."

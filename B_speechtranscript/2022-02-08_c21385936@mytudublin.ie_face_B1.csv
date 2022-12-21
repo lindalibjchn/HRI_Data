@@ -1,0 +1,12 @@
+time,speaker,text
+00:00.0 - 00:02.7,robot,ask you a couple of magical problems ok.
+,participant,ok
+00:06.7 - 00:16.1,robot,"So, can I say everyone is a liar Wednesday on over 30 then Chance the cat is a liar so the question is is Jessica over 30?"
+00:18.9 - 00:20.2,participant,Can you repeat that question?
+00:23.1 - 00:33.4,robot,suppose everyone is in there when they are on over 30 and chance of cat is a liar so the question is is Jessica over 30 
+,participant,yes
+00:34.9 - 00:38.2,robot,"Good job, you are correct. "
+,participant,Thank you.
+00:46.8 - 00:50.4,robot,Do you require anyone under 30 is not a liar?
+00:56.7 - 00:57.0,participant,no
+00:59.3 - 01:01.3,robot,"Great, thank you for your answer."

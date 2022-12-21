@@ -1,0 +1,10 @@
+time,speaker,text
+00:00.0 - 00:04.9,robot,"Now, I would like to ask you a couple of word problems alright."
+00:06.6 - 00:06.8,participant,Yes.
+00:13.5 - 00:18.8,robot,"There are five proofs of four students, how many students are there in the class?"
+00:20.2 - 00:20.5,participant,20
+00:23.8 - 00:25.4,participant,"well done, you are so smart."
+00:26.9 - 00:27.2,robot,Thank you.
+00:31.2 - 00:36.7,robot,"Each group has two pairs of scissors, how many pairs of scissors are there in total?"
+,participant,10
+00:44.9 - 00:46.9,robot,"Great, thank you for your answer."

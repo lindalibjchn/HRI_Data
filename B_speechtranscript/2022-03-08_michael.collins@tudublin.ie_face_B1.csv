@@ -1,0 +1,16 @@
+time,speaker,text
+00:00.0 - 00:06.6,robot,nice To meet you and pepper. How are you welcome to have a chat with me? What's your name? 
+,participant,My name is Michael
+00:13.0 - 00:13.6,participant,what is your name?
+00:15.2 - 00:17.6,robot,Hello Michael nice talking with you.
+00:20.6 - 00:22.7,participant,How are you today? 
+,robot,I am pepper.
+00:25.2 - 00:27.9,participant,Nice to meet you pepper. 
+,robot,I am great. Thank you.
+00:29.5 - 00:32.3,robot,Now I would like to ask you a couple of logical problems.
+00:34.7 - 00:44.0,participant,Suppose everyone is your liar when they are over 30 then Jessica is a liar so the question is is Jessica on for 30?
+00:48.4 - 00:48.7,participant,no
+00:50.8 - 00:52.5,robot,"well done, you are so smart."
+00:55.5 - 00:59.0,robot,Do you agree that not everyone under 30 is not a liar?
+01:00.9 - 01:01.5,participant,I agree.
+01:03.7 - 01:05.6,robot,"Great, thank you for your answer."
