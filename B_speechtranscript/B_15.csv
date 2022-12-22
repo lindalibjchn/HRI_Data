@@ -1,0 +1,17 @@
+time,speaker,text
+00:00.0 - 00:01.3,robot,a couple of math question
+00:02.9 - 00:11.8,participant,"yeah, go ahead"
+,robot, is x equals four in the next must be equals 10 the question. Is is the vehicle 12?
+00:13.9 - 00:14.1,participant,Yes.
+00:20.2 - 00:20.5,participant,Yes.
+00:21.9 - 00:23.7,robot,"Good job, you are correct."
+00:25.0 - 00:27.4,robot,"Good job, you are correct."
+00:29.5 - 00:39.6,robot,"If x equals four in the next plus the plus log one equals 10 the question, is is the equals six or V equals 12?"
+00:43.1 - 00:43.4,participant,No
+00:48.8 - 00:50.0,participant,the answer is no.
+00:53.1 - 00:54.9,robot,"Really, please try again."
+00:57.3 - 00:58.4,participant,the answer is yes.
+01:03.1 - 01:04.3,participant,"No, the answer is yes."
+01:08.6 - 01:09.0,robot,Come on.
+01:11.4 - 01:12.7,participant,the answer is yes.
+01:18.4 - 01:20.2,robot,"Yes, you are correct."

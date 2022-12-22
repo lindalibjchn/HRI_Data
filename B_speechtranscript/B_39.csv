@@ -1,0 +1,9 @@
+time,Speaker,text
+00:00.3 - 00:02.0,robot,"Now, I would like to ask you some couple of word problems"
+00:05.7 - 00:11.1,participant,There are five groups that are four students. How many students are there in the class?
+00:13.0 - 00:19.7,robot,Is that 5?
+,robot,There are five groups that are four students. How many students are there in the class?
+,participant,"well done, you are smater."
+,robot,"each group has two pairs of scissors, how many scissors are total?"
+,participant,40
+00:40.7 - 00:42.5,participant,"Okay good job, you are correct."

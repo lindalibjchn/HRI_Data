@@ -1,0 +1,17 @@
+time,Speaker,text
+00:01.7 - 00:08.9,robot,Nice to meet you in pepper. How are you welcome to we have chat with me? What's your name?
+,participant, I'm Emily
+00:13.2 - 00:16.0,robot,"Great, thank you. You are a super."
+00:17.1 - 00:19.9,robot,Now I would like to ask you a couple of logical problems.
+00:23.2 - 00:32.8,robot,Suppose on his mother admirer Sona and of admires her mother everyone admirer is her mother so everyone admires Hannah right.
+,participant,wrong
+00:38.6 - 00:40.4,robot,"Really, please try again."
+00:42.5 - 00:42.8,participant,right
+00:51.0 - 00:51.8,robot,You are correct.
+,participant,Thank you 
+00:54.5 - 01:00.1,robot,"doesn't make sense on his friend admires on it, but her mother doesn't it?"
+01:08.3 - 01:09.0,participant,yes? I'm not sure.
+01:10.4 - 01:12.1,robot,"Really, please try again."
+01:13.5 - 01:18.0,robot,"Doesn't make sense on his friend admires on it, but her mother doesn't it?"
+01:20.5 - 01:22.4,participant,It does make sense.
+01:23.9 - 01:25.5,robot,"Yes, you are correct."

@@ -1,0 +1,13 @@
+time,Speaker,text
+00:00.0 - 00:02.8,robot,Now I would like to ask you a couple of math question.
+00:04.0 - 00:04.3,participant,Yes.
+00:09.4 - 00:09.6,participant,Yes.
+00:12.0 - 00:22.2,robot,"If x equals four in the next plus the plus log one equals 10 the question, is is the = 6 or B = 12?"
+00:23.5 - 00:24.4,participant,Can you repeat the question?
+00:26.5 - 00:38.4,robot,"No problem if x equals four and an X plus b plus one equals 10 the question, is is B equals six or B equals 12?"
+00:40.0 - 00:40.3,participant,12
+00:46.6 - 00:49.7,robot,"I am sorry, maybe this question is too difficult."
+00:55.6 - 00:57.4,robot,really? please try again?
+00:58.6 - 01:10.7,robot,Six is x equals four in the next plus the plus log one equals 10 the question. Is b = 6 or V equals 12
+01:12.4 - 01:12.8,participant,B is equal six
+01:15.5 - 01:16.4,robot,You are correct.

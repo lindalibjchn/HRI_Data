@@ -1,0 +1,12 @@
+time,speaker,text
+00:00.1 - 00:16.5,robot,"now, I would like to ask you a couple of logical problems "
+,participant,okay. You can ask me what you want.
+,robot,"Suppose, everyone is still there when they are over 30 then Jessica is a liar so the question is is Jessica over 30?"
+00:17.7 - 00:21.2,participant,"I'm sorry, I can't understand you."
+00:24.1 - 00:29.4,participant,Would you want to ask me anything to be done 
+00:31.0 - 00:40.4,participant,no problem? suppose everyone is a liar when they are on over 30 then Jessica is a liar so the question is is Jessica over 30?
+00:42.0 - 00:54.4,participant,"Um no if you ask me my age,  I'm 35, but I'm not sure I understand you."
+00:55.5 - 01:08.0,robot,do you agree not everyone under 30 is not a liar.
+,participant,"no, the liar is not about the age."
+01:10.6 - 01:14.1,robot,"Great, thank you for your answer."
+,participant,you're welcome.

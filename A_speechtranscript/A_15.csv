@@ -1,0 +1,13 @@
+time,Speaker,text
+00:00.0 - 00:04.9,robot,"Nice to meet you, I am pepper. How are you welcome to have a chat with me? What's your name?"
+,participant,"Hi, my name is palavi"
+00:14.2 - 00:16.9,robot,"Great, thank you. You are super."
+00:18.4 - 00:21.2,robot,Now I would like to ask you a couple of logical problems.
+,participant,sure
+00:24.4 - 00:35.3,robot,Suppose on his mother admire Santa Ana Myers her mother everyone in Myers her mother so everyone admire Santa right.
+00:36.9 - 00:38.7,participant,"No, that's not true."
+00:41.3 - 00:43.1,robot,"Really, please try again."
+00:45.3 - 00:57.3,participant,Can you repeat that question again 
+,robot,suppose on his mother admires or no and an admirer is her mother everyone admirer is her mother so everyone admires Hannah right.
+01:01.3 - 01:01.9,participant,not true
+01:10.5 - 01:11.4,robot,You are correct.
