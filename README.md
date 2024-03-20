@@ -11,6 +11,7 @@ In addition, we shared the speech transcripts in public groupped by conditions, 
 
 If you refer to this feature data, please cite the paper. 
 
+```
 @inproceedings{10.1145/3568162.3576999,
 author = {Li, Na and Ross, Robert},
 title = {Hmm, You Seem Confused! Tracking Interlocutor Confusion for Situated Task-Oriented HRI},
@@ -28,4 +29,5 @@ keywords = {confusion detection, situated dialogues, user engagement, woz},
 location = {<conf-loc>, <city>Stockholm</city>, <country>Sweden</country>, </conf-loc>},
 series = {HRI '23}
 }
+```
 
